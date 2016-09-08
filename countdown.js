@@ -9,7 +9,7 @@ var countdownGenerator = function (x) {
     return x;
   } else if (x === 0) {
     console.log("Blast Off!")
-    x = -1;
+
     return x;
   } else {
 

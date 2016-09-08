@@ -1,0 +1,5 @@
+as soon as you pass a function into a function it is called a callback function
+
+whatToDo is the callback function in the example, foreach. is a higher order fucntion (a function that deals with other functions - takes callback functions or returns functions)
+
+passing it into another fuction and letting it call it, its a callback function

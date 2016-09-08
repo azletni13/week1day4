@@ -9,7 +9,7 @@ var result = input.map(function(input){
   return squareroot;
 });
 
-
+console.log(result)
 
 console.log(result[0] === 5);
 console.log(result[1] === 13);
